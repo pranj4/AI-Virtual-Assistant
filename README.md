@@ -28,7 +28,7 @@ pip install pyttsx3 speechrecognition pyaudio wikipedia
 ## Usage
 1. Clone the repository:
 ```sh
-git clone https://github.com/pranj4/Hackathon_23MCAR0132
+git clone https://github.com/pranj4/AI-Virtual-Assistant
 
 ```
 
